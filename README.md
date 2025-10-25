@@ -1,4 +1,5 @@
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9NUvWOYpl81_lk2VbEX96RcmsA-9OaR_xItxyBMBPmMA0Z3yaTFTK6RQdc6gZe1RpI&usqp=CAU)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pkdjNlMmE4Z2c1bWNxZDFzenkzaTVtbmE0dHNlcXF1MG9iZXMxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gR92EF4p9XyEHyD2n5/giphy.gif)
+
 # Project 1: Console Tic Tac Toe Game in Java
 
 ## Course
